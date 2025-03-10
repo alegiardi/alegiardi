@@ -2,7 +2,7 @@
 
 ### Currently working as a Tech Fast Track Schemer at The Travel Corporation and studying MSc Computer Science at the University of Bath.
  
-- 🔭 I’m currently working on an Sun Tracker - to find the sunniest holiday destination!
+- 🔭 I’m currently working on a Sun Tracker - to find the sunniest holiday destination!
 - 🌱 I’m currently learning everything 😄
 - 👯 I’m looking to collaborate on a 2D Platformer
 - 💬 2025 Goals: Deploy a project using Kubernetes
